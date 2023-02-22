@@ -18,3 +18,6 @@
 
 * ./ken_all.zip
   - post code of japan: https://www.post.japanpost.jp/zipcode/download.html
+
+* ./addresses.csv
+ - https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html
